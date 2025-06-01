@@ -1,1 +1,1 @@
-# airline_database-sql_queries
+# airline-database.sql-queries
